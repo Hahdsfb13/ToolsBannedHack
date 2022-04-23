@@ -14,7 +14,7 @@ def menu():
 \033[1;37m(1)\033[0;m \033[0;32mSuspender Numeros De Whatsapp\033
 \033[1;37m(2)\033[0;32m Robar Una Cuenta De Whatsapp\033[1;37m
 (3)\033[0;m \033[0;32mSuspender Sim Permanentemente\033[1;37m
-(4)\033[0;m \033[0;32mHackear Wifi\033
+(4)\033[0;m \033[0;32mHackear Wifi\3865442746
 \033[1;37m(5)\033[0;m \033[0;32mObtener Grupos Antiguos(2011)\033[1;37m
 (0)\033[0;m \033[0;31mSalir\033
 """)
